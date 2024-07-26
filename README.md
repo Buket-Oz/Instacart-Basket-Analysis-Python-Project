@@ -1,5 +1,3 @@
-# Instacart-Basket-Analysis-Python-Project
-
 # Instacart Sales Analysis Project
 
 ## Objective
