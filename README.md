@@ -6,10 +6,10 @@
 This project analyzes sales data from Instacart to derive insights into customer purchasing behaviors and sales patterns. The analysis aims to inform targeted marketing strategies, helping Instacart enhance segmentation and improve advertising efficacy.
 
 ## Key Questions
-- **What are the busiest days of the week and hours of the day?** Understanding peak times can help optimize ad scheduling.
-- **At what times of the day do people tend to spend the most money?** This can influence the types of products advertised during these peak spending times.
-- **How can simple price range groupings be used to optimize marketing and sales efforts?** Instacart's diverse product price tags necessitate streamlined categorization.
-- **Which types of products are most popular?** Identifying top-selling products can guide marketing focus.
+- **What are the busiest days of the week and hours of the day?** 
+- **At what times of the day do people tend to spend the most money?** 
+- **How can simple price range groupings be used to optimize marketing and sales efforts?** 
+- **Which types of products are most popular?** 
 - **What are the characteristics of different customer profiles in the system?** This includes:
   - Brand loyalty.
   - Ordering habits based on loyalty status.
