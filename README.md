@@ -1,5 +1,7 @@
 # Instacart Sales Analysis Project
 
+![Logo](logo.png)
+
 ## Objective
 This project analyzes sales data from Instacart to derive insights into customer purchasing behaviors and sales patterns. The analysis aims to inform targeted marketing strategies, helping Instacart enhance segmentation and improve advertising efficacy.
 
