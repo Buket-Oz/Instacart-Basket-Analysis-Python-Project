@@ -19,7 +19,7 @@ This project analyzes sales data from Instacart to derive insights into customer
 These questions are designed to dissect the complex consumer behavior within Instacart's shopping environment, providing targeted insights for strategic marketing planning.
 
 ## Data
-This project uses several open-source data sets from Instacart alongside a specially created customer data set. The data includes customers, orders, products, and departments. Due to size constraints, the data files are not uploaded to GitHub but are available upon request.
+This project uses several open-source data sets from Instacart alongside a specially created customer data set. The data includes customers, orders, products, and departments.
 
 ### Data Sets:
 - **Customers**: Analyzed for purchasing patterns and loyalty.
